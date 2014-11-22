@@ -4,7 +4,7 @@ def main():
   for i in range(11):
     x = x * (1 - x) * 3.7
     y = y * (1-y) * 3.7
-    print "|  ", x, "  |  ", y, "  |  "
+    print "|  ", x, "  |  ", y, "  |  l"
 
 if __name__ == '__main__':
   main()
